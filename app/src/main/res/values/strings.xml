@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HealthifyEat</string>
+    <string name="sharedPreferences">sharedPreferences</string>
+</resources>
